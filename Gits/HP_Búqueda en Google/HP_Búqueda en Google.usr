@@ -37,15 +37,24 @@ Version=14.03
 [TulipAddins]
 ActiveX=
 Database=
+Delphi=
 File Content=
+Flex=
 Insight=
 Java=
 Oracle=
+PeopleSoft=
+PowerBuilder=
+Qt=
+SAP=
+Siebel=
 Windows Applications=
+Stingray=
 TEA=
+Terminal Emulators=
+VisualAge Smalltalk=
 Visual Basic=
 Web=
-.NET=
 WPF=
 XML=
 
